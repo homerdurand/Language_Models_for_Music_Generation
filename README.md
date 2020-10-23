@@ -1,2 +1,2 @@
-# Music_Generation
-Génération de musique avec machine Learning (RNN, LSTM, Markov process)
+# Language_Models_for_Music_Generation
+Etude de la compatibilité des modèles de language pour la génération musicale
